@@ -157,7 +157,8 @@ These are illustrative scenario estimates, not forecasts or observed campaign re
 ## Project Files
 
 - [Python Analysis Notebook](./Datacamp_exam.ipynb) — Data exploration, guest segmentation, statistical analysis, and revenue modelling.
-- **Written Analysis Report** — Detailed visual findings, methodological explanations, KPI definitions, and business recommendations (PDF included in this repository).
+- **Written Analysis Report** — (https://github.com/MuhammadUmar654/Datacamp_exam_sample/blob/main/Final%20report)
+- **Datasets and Emails from Managers**: https://github.com/MuhammadUmar654/Datacamp_exam_sample/blob/main/dataset_and_questions.pdf
 
 ## Limitations
 
